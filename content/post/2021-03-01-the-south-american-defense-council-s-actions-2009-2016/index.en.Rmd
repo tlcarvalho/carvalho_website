@@ -30,19 +30,19 @@ In order to contribute to this research agenda, I built a new database, includin
 
 <iframe height="900" width="100%" frameborder="no" src="https://tlcarvalho.shinyapps.io/SADC_data/"> </iframe>
 
-*Codification rules:*
+**Codification rules:**
 
-**Axis - SADC’s initiatives were divided into four axes of action: (1) Defense Policies, (2) Military Cooperation, Humanitarian Action, and Peace Operations, (3) Defense Industry, and (4) Education and Capacity Building. I also included a fifth axis, based on initiatives conducted by the Center for Strategic Defense Studies (CEED);**
+*Axis - SADC’s initiatives were divided into four axes of action: (1) Defense Policies, (2) Military Cooperation, Humanitarian Action, and Peace Operations, (3) Defense Industry, and (4) Education and Capacity Building. I also included a fifth axis, based on initiatives conducted by the Center for Strategic Defense Studies (CEED);*
 
-**Leader - which country (or CEED) was responsible for the initiative;**
+*Leader - which country (or CEED) was responsible for the initiative;*
 
-**Proposition - the Action Plan in which each initiative was proposed;**
+*Proposition - the Action Plan in which each initiative was proposed;*
 
-**Result - if the initiative was implemented (e.g., if the seminars happened) or not (i.e., if it failed to be put in practice), merged with another initiative, or transferred to another UNASUR council;**
+*Result - if the initiative was implemented (e.g., if the seminars happened) or not (i.e., if it failed to be put in practice), merged with another initiative, or transferred to another UNASUR council;*
 
-**Outcome - based on my own codification on SADC meeting records, I inferred what each initiative was intended to implement (e.g., a seminar, a course, a policy);**
+*Outcome - based on my own codification on SADC meeting records, I inferred what each initiative was intended to implement (e.g., a seminar, a course, a policy);*
 
-**Issue - based on my own codification on SADC meeting records, I inferred to what subject each initiative was related (e.g., building a common identity on security and defense issues, confidence-building, Peace Operations).**
+*Issue - based on my own codification on SADC meeting records, I inferred to what subject each initiative was related (e.g., building a common identity on security and defense issues, confidence-building, Peace Operations).*
 
 Some preliminary conclusions about these data will be presented in [this upcoming talk](https://tlcarvalho.netlify.app/talk/policy_diffusion/), as well as in the related article, to be published in the International Conference on Policy Difusion and Development Cooperation’s ebook. The entire database will be available soon.
 
