@@ -7,7 +7,7 @@ menu:
   example:
     name: Course Syllabus
     weight: 1
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+summary: Qualitative Comparative Analysis course, taught to graduate students from the Federal University of Latin American Integration (UNILA).
 title: Course Syllabus
 toc: true
 type: docs
