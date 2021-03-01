@@ -1,7 +1,7 @@
 ---
 title: South American Defense Council's actions (2009-2016) - a database
 author: Thales Carvalho
-date: '2021-03-01'
+date: '2021-03-02'
 slug: the-south-american-defense-council-s-actions-2009-2016
 categories: []
 tags:
@@ -14,7 +14,7 @@ tags:
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-02-28T12:18:42-03:00'
+lastmod: '2021-03-01T12:18:42-03:00'
 featured: no
 image:
   caption: ''
