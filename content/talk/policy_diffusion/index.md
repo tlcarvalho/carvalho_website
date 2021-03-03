@@ -16,5 +16,4 @@ tags:
 - UNASUR
 - South American Defense Council
 title: 'Assessing defense cooperation in South America: How did the South American Defense Council act?'
-url_video: "youtube.com/LABOPPIUNIFESP"
 ---
