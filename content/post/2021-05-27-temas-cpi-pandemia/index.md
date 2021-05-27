@@ -73,7 +73,7 @@ Clique Ctrl + Shift + F para apresentação em tela cheia.
 
 [__Sobre__] Sobre o projeto:  
 
-O projeto propõe cobrir a CPI da pandemia no Senado Federal orientado à análise de dados. Neste primeiro relatório, nos debruçamos sobre os debates ocorrido ao longo das sessões, por meio das notas taquigráficas das oportunidades em que o Senado Federal inquiriu um conjunto de depoentes entre os dias 04 e 20 de maio de 2020 para mobilizar estratégias de Mineração de Textos. Empregamos, para isso, ferramentas de análise de texto como dados (*text as data*).  
+O projeto propõe cobrir a CPI da pandemia no Senado Federal orientado à análise de dados. Neste primeiro relatório, nos debruçamos sobre os debates ocorrido ao longo das sessões, por meio das notas taquigráficas das oportunidades em que o Senado Federal inquiriu um conjunto de depoentes entre os dias 04 e 20 de maio de 2021 para mobilizar estratégias de Mineração de Textos. Empregamos, para isso, ferramentas de análise de texto como dados (*text as data*).  
 
 
 [__Tecnologia__] Ferramentas utilizadas:
