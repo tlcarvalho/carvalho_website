@@ -7,10 +7,10 @@ summary: A CPI da pandemia tem sido amplamente repercutida nas últimas semanas.
 
 
 # Date published
-date: "2020-05-26T00:00:00Z"
+date: "2021-05-26T00:00:00Z"
 
 # Date updated
-lastmod: "2020-05-26T00:00:00Z"
+lastmod: "2021-05-26T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
