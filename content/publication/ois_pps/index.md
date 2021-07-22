@@ -1,7 +1,7 @@
 ---
-abstract: Este trabalho se propõe a avançar, de uma maneira hipotética e dedutiva, no debate acerca do papel das OIs na difusão de políticas públicas. Através de uma análise das literaturas sobre organizações internacionais, análise de políticas públicas e difusão de políticas públicas, discutiremos o papel das seguintes variáveis no emprego dos diferentes instrumentos, por parte dessas organizações, para a difusão: (a) a atuação das OIs nos vários campos da intervenção governamental; (b) e nas distintas “etapas” do processo de produção das políticas; (c) os distintos temas, tipos e graus de democratização das OIs; (d) os níveis e formas de autoridade das mesmas.
+abstract: "Este trabalho se propõe a avançar, de uma maneira hipotética e dedutiva, no debate acerca do papel das OIs na difusão de políticas públicas. Através de uma análise das literaturas sobre organizações internacionais, análise de políticas públicas e difusão de políticas públicas, discutiremos o papel das seguintes variáveis no emprego dos diferentes instrumentos, por parte dessas organizações, para a difusão: (a) a atuação das OIs nos vários campos da intervenção governamental; (b) e nas distintas “etapas” do processo de produção das políticas; (c) os distintos temas, tipos e graus de democratização das OIs; (d) os níveis e formas de autoridade das mesmas." 
 authors:
-- admin
+- admin  
 - Jéssica Silva Fernandes  
 - Carlos Aurélio Pimenta de Faria
 date: "2021-07-20T00:00:00Z"
