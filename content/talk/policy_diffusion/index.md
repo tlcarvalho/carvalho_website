@@ -17,5 +17,3 @@ tags:
 - South American Defense Council
 title: 'Assessing defense cooperation in South America: How did the South American Defense Council act?'
 ---
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRG6IOBZbDAtG8Tx3PIJFsrHrK1w4qvYSA8foZ1WL9DuNyGd3mudAUalZNYfCXfOw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
