@@ -19,6 +19,7 @@ interests:
 - Defense Policy
 - Latin America
 - Quantitative Methods applied to International Relations
+- Scientometrics
 - Policy Diffusion
 organizations:
 - name: Federal University of Minas Gerais
@@ -48,6 +49,6 @@ user_groups:
 
 I am a Ph.D. student in Political Science at the Federal University of Minas Gerais (Universidade Federal de Minas Gerais - UFMG), and a member of the International institutions, Foreign Policy and Political Regime Research Network (Rede de Pesquisa em Instituições Internacionais, Política Externa e Regime Político - RIPPERP). I also got my Master's Degree in Political Science from UFMG, and my bachelor's degree in International Relations from the Pontifical Catholic University of Minas Gerais (PUC-Minas). 
 
-My research focuses on international security and defense policies in Latin America, especially on identifying the role of domestic variables in shaping these policies. I have research experience on the following topics: Internacional Security; Foreign Policy; Latin America; Quantitative Methods applied to International Relations; and Policy Diffusion.
+My research focuses on international security and defense policies in Latin America, especially on identifying the role of domestic variables in shaping these policies. I have research experience on the following topics: Internacional Security; Foreign Policy; Latin America; Quantitative Methods applied to International Relations; Scientometrics; and Policy Diffusion.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.html" "newtab" >}}resumé{{< /staticref >}}.
