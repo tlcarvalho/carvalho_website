@@ -4,7 +4,7 @@ authors:
 - admin  
 - Vinicius Santos  
 - Yulieth Martínez  
-date: "2021-07-16T00:00:00Z"
+date: "2021-07-20T00:00:00Z"
 featured: false
 publication: '*Scielo Preprints*'
 publication_types:

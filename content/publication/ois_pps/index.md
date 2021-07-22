@@ -4,7 +4,7 @@ authors:
 - admin  
 - Jéssica Silva Fernandes  
 - Carlos Aurélio Pimenta de Faria
-date: "2021-07-20T00:00:00Z"
+date: "2021-07-18T00:00:00Z"
 featured: false
 publication: '*Carta Internacional*'
 publication_types:
