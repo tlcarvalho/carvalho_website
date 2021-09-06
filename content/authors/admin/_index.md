@@ -5,6 +5,9 @@ education:
   - course: PhD in Political Science
     institution: Federal University of Minas Gerais (UFMG)
     year: in course
+  - course: Visiting Graduate Student (Political Science Department)
+    institution: University of California - San Diego (UCSD)
+    year: 2021-2022
   - course: Master's Degree in Political Science
     institution: Federal University of Minas Gerais (UFMG)
     year: 2018
@@ -18,7 +21,7 @@ interests:
 - Foreign Policy
 - Defense Policy
 - Latin America
-- Quantitative Methods applied to International Relations
+- Methodology (Social Sciences)
 - Scientometrics
 - Policy Diffusion
 organizations:
@@ -47,8 +50,8 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Ph.D. student in Political Science at the Federal University of Minas Gerais (Universidade Federal de Minas Gerais - UFMG), and a member of the International institutions, Foreign Policy and Political Regime Research Network (Rede de Pesquisa em Instituições Internacionais, Política Externa e Regime Político - RIPPERP). I also got my Master's Degree in Political Science from UFMG, and my bachelor's degree in International Relations from the Pontifical Catholic University of Minas Gerais (PUC-Minas). 
+I am a Ph.D. student in Political Science at the Federal University of Minas Gerais (Universidade Federal de Minas Gerais - UFMG), and a Visiting Graduate Student at the University of California - San Diego (Political Science Department). I am  a member of the International institutions, Foreign Policy and Political Regime Research Network (Rede de Pesquisa em Instituições Internacionais, Política Externa e Regime Político - RIPPERP). I also got my Master's Degree in Political Science from UFMG, and my bachelor's degree in International Relations from the Pontifical Catholic University of Minas Gerais (PUC-Minas). 
 
-My research focuses on international security and defense policies in Latin America, especially on identifying the role of domestic variables in shaping these policies. I have research experience on the following topics: Internacional Security; Foreign Policy; Latin America; Quantitative Methods applied to International Relations; Scientometrics; and Policy Diffusion.
+My research focuses on international security and defense in Latin America, building a Neoclassical Realist framework to understand International Security Policies implemented by Latin American countries in the last 40 years. I have research experience on the following topics: International Security; Foreign Policy; Latin America; Quantitative Methods applied to International Relations; Scientometrics; and Policy Diffusion.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.html" "newtab" >}}resumé{{< /staticref >}}.
