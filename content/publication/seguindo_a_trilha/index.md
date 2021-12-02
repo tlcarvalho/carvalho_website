@@ -8,7 +8,7 @@ date: "2021-07-20T00:00:00Z"
 featured: false
 publication: '*Scielo Preprints*'
 publication_types:
-- "7"
+- "3"
 tags:
 - Scientometrics  
 - International Relations in Brazil  
