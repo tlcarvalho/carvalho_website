@@ -21,9 +21,8 @@ interests:
 - Foreign Policy
 - Defense Policy
 - Latin America
-- Methodology (Social Sciences)
+- Methodology  
 - Scientometrics
-- Policy Diffusion
 organizations:
 - name: Federal University of Minas Gerais
   url: http://ppgcp.fafich.ufmg.br/
@@ -50,8 +49,10 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Ph.D. student in Political Science at the Federal University of Minas Gerais (Universidade Federal de Minas Gerais - UFMG - Brazil), and a Visiting Graduate Student at the University of California - San Diego (Political Science Department), from October 2021 to May 2022. I am a member of the International institutions, Foreign Policy and Political Regime Research Network (Rede de Pesquisa em Instituições Internacionais, Política Externa e Regime Político - RIPPERP). I also got my Master's Degree in Political Science from UFMG, and my bachelor's degree in International Relations from the Pontifical Catholic University of Minas Gerais (PUC-Minas). 
+I am a Ph.D. student in Political Science at the Federal University of Minas Gerais (Universidade Federal de Minas Gerais - UFMG - Brazil), and a Visiting Graduate Student at the University of California - San Diego (Political Science Department), from October 2021 to May 2022. I am a member of the International institutions, Foreign Policy and Political Regime Research Network (Rede de Pesquisa em Instituições Internacionais, Política Externa e Regime Político - RIPPERP). I also got my Master's Degree in Political Science from UFMG, and my bachelor's degree in International Relations from the Pontifical Catholic University of Minas Gerais (PUC-Minas).  
 
-My research focuses on international security and defense in Latin America, building a new theoretical framework to understand International Security Policies implemented by Latin American countries in the last 40 years. I have research experience on the following topics: International Security; Foreign Policy; Latin America; Quantitative Methods; Scientometrics; and Policy Diffusion.
+During the 2022-2023 academic year, I am also part of the organizing team of the [Graduate Students in International Security, Etc. Workshop](https://wp.nyu.edu/gsise/) (GSISE).  
+
+My research focuses on international security and defense in Latin America, building a new theoretical framework to understand International Security Policies implemented by Latin American countries from 1975 to 2010. I also conduct a secondary agenda related to the role of Latin American amidst the Global IR debates. I have research experience on the following topics: International Security; Foreign Policy; Defense Policy; Latin America; Methods; and Scientometrics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.html" "newtab" >}}resumé{{< /staticref >}}.
