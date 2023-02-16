@@ -15,7 +15,8 @@ tags:
 - Brazil
 - Systematic Literature Review
 - Scholarly Production  
-- Bibliometrics
+- Bibliometrics  
+- Global IR
 publishDate: "2020-12-01T00:00:00Z"
 title: "‘Mind the Gap’: Assessing Differences between Brazilian and Mainstream IR Journals in Methodological Approaches"
 url_pdf: https://www.scielo.br/j/cint/a/dMc5JBhCCjt8RvKB64Jrt4D/?format=pdf&lang=en

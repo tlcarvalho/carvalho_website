@@ -14,6 +14,7 @@ tags:
 - International Relations in Brazil  
 - Structural Topic Model  
 - Teaching and Research  
+- Global IR  
 publishDate: "2021-07-16T00:00:00Z"
 title: 'Seguindo a trilha das palavras: mapeando os “trending topics”das pesquisas na pós-graduação em RI no Brasil (1987-2018)'
 url_pdf: https://preprints.scielo.org/index.php/scielo/preprint/view/2646

@@ -26,7 +26,7 @@ interests:
 organizations:
 - name: Federal University of Minas Gerais
   url: http://ppgcp.fafich.ufmg.br/
-role: Ph.D. Candidate
+role: Researcher  
 social:
 - icon: envelope
   icon_pack: fas
@@ -49,10 +49,14 @@ user_groups:
 - Principal Investigators
 ---
 
-I hold a Ph.D. in Political Science (Universidade Federal de Minas Gerais - UFMG - Brazil), and was a Visiting Graduate Student at the University of California - San Diego (2021-2022). I am a member of the International institutions, Foreign Policy and Political Regime Research Network (Rede de Pesquisa em Instituições Internacionais, Política Externa e Regime Político - RIPPERP). I also got my Master's Degree in Political Science from UFMG, and my bachelor's degree in International Relations from the Pontifical Catholic University of Minas Gerais (PUC-Minas).  
+Hello!  
+
+I am a researcher at the International institutions, Foreign Policy and Political Regime Research Network (Rede de Pesquisa em Instituições Internacionais, Política Externa e Regime Político - RIPPERP) from the Universidade Federal de Minas Gerais (UFMG), Brazil. I hold a Ph.D. in Political Science (UFMG), and was a Visiting Graduate Student at the University of California - San Diego (2021-2022). I also got my Master's Degree in Political Science from UFMG, and my bachelor's degree in International Relations from the Pontifical Catholic University of Minas Gerais (PUC-Minas).  
 
 During the 2022-2023 academic year, I am part of the organizing team of the [Graduate Students in International Security, Etc. Workshop](https://wp.nyu.edu/gsise/) (GSISE).  
 
-My research focuses on international security and defense in Latin America, building a new theoretical framework to understand International Security Policies implemented by Latin American countries. I also conduct a secondary agenda on the role of the Latin American IR scholarship amidst Global IR debates. I have research experience on the following topics: International Security; Foreign Policy; Defense Policy; Latin America; Methods; and Global IR.
+My research focuses on international security governance in Latin America. I also conduct a secondary agenda on the role of the Latin American IR scholarship amidst Global IR debates. My work has been published in Latin American Politics and Society, Global Studies Quarterly, the Oxford Research Encyclopedia of International Studies, and Contexto Internacional.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.html" "newtab" >}}resumé{{< /staticref >}}.
+I have research experience on the following topics: International Security; Foreign Policy; Defense Policy; Latin America; Methods; and Global IR.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -1,0 +1,25 @@
+---
+title: Política externa ou campanha eleitoral por outros meios?
+author: Thales Carvalho
+date: '2020-06-26'
+slug: politica-externa-campanha-eleitoral
+categories: []
+tags:
+  - Foreign Policy
+  - Brazil
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-06-26T12:18:42-03:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+runtime: shiny
+---
+
+In this opinion article, Dawisson Belém Lopes and I argue that Jair Bolsonaro implemented an ethnic and religious foreign policy in order to gather electoral support. You can find the full article here:
+
+https://oglobo.globo.com/mundo/artigo-politica-externa-ou-campanha-eleitoral-por-outros-meios-24500664

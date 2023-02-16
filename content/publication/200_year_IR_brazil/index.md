@@ -14,7 +14,8 @@ tags:
 - International Relations  
 - Brazil
 - Scholarly Production  
-- Bibliometrics
+- Bibliometrics  
+- Global IR  
 publishDate: "2020-06-01T00:00:00Z"
 title: "200 Years of International Relations in Brazil: Issues, Theories, and
 Methods"
