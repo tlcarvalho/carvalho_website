@@ -50,7 +50,7 @@ user_groups:
 
 Hello!  
 
-I am a Postdoctoral Researcher at the University of São Paulo (USP), in Brazil. I hold a Ph.D. in Political Science from the Federal University of Minas Gerais (UFMG), and was a Visiting Graduate Student at the University of California - San Diego (2021-2022). I also got my Master's Degree in Political Science from UFMG, and my bachelor's degree in International Relations from the Pontifical Catholic University of Minas Gerais (PUC-Minas). I am currently affiliated to the International Relations Research Center (NUPRI-USP) and the International institutions, Foreign Policy and Political Regime Research Network (RIPPERP-UFMG). 
+I am a Postdoctoral Researcher at the Department of Political Science, University of São Paulo (USP). I hold a Ph.D. in Political Science from the Federal University of Minas Gerais (UFMG), and was a Visiting Graduate Student at the University of California - San Diego (2021-2022). I also got my Master's Degree in Political Science from UFMG, and my bachelor's degree in International Relations from the Pontifical Catholic University of Minas Gerais (PUC-Minas). I am currently affiliated to the International Relations Research Center (NUPRI-USP) and the International institutions, Foreign Policy and Political Regime Research Network (RIPPERP-UFMG). 
 
 Since 2022, I am part of the organizing team of the [Graduate Students in International Security, Etc. Workshop](https://wp.nyu.edu/gsise/) (GSISE).  
 
