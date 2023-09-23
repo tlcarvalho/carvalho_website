@@ -1,5 +1,5 @@
 ---
-bio: My research interests include International Security, Foreign Policy, Latin America, and Quantitative Methods applied to International Relations.
+bio: My research interests include International Security, Foreign Policy, Latin America, and Global IR.
 education:
   courses:
   - course: PhD in Political Science
@@ -21,12 +21,11 @@ interests:
 - Foreign Policy
 - Defense Policy
 - Latin America
-- Methods  
 - Global IR
 organizations:
-- name: Federal University of Minas Gerais
-  url: http://ppgcp.fafich.ufmg.br/
-role: Researcher  
+- name: University of São Paulo (USP)
+  url: https://dcp.fflch.usp.br/en
+role: Postdoctoral Researcher  
 social:
 - icon: envelope
   icon_pack: fas
