@@ -14,6 +14,7 @@ tags:
 - Brazil
 - Far-right Politics  
 - Latin America  
+- Punctuated Equilibrium  
 publishDate: "2022-12-01T00:00:00Z"
 title: "Did the Far Right Breed a New Variety of Foreign Policy? The Case of Bolsonaro's “More-Bark-Than-Bite” Brazil"
 url_pdf: https://academic.oup.com/isagsq/article/2/4/ksac078/6960505

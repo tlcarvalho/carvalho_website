@@ -54,7 +54,7 @@ I am a Postdoctoral Researcher at the Department of Political Science, Universit
 
 Since 2022, I am part of the organizing team of the [Graduate Students in International Security, Etc. Workshop](https://wp.nyu.edu/gsise/) (GSISE).  
 
-My research focuses on international security governance in Latin America. I also conduct a secondary agenda on the role of the Latin American IR scholarship amidst Global IR debates. My work has been published in Latin American Politics and Society, Global Studies Quarterly, the Oxford Research Encyclopedia of International Studies, Contexto Internacional, and Brazilian Political Science Review.
+My research focuses on international security governance in Latin America. I also conduct a secondary agenda on the role of the Latin American IR scholarship amidst Global IR debates. My work has been published in Latin American Politics and Society, Global Studies Quarterly, the Oxford Research Encyclopedia of International Studies, Revista Brasileira de Política Internacional, Contexto Internacional, and Brazilian Political Science Review.
 
 I have research experience on the following topics: International Security; Foreign Policy; Defense Policy; Latin America; and Global IR.
 
