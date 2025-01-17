@@ -23,9 +23,9 @@ interests:
 - Latin America
 - Global IR
 organizations:
-- name: University of São Paulo (USP)
-  url: https://dcp.fflch.usp.br/en
-role: Postdoctoral Researcher  
+- name: Rio de Janeiro State University (UERJ)
+  url: http://www.ppgri.uerj.br/
+role: Assistant Professor  
 social:
 - icon: envelope
   icon_pack: fas
