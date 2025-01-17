@@ -50,12 +50,12 @@ user_groups:
 
 Hello!  
 
-I am a Postdoctoral Researcher at the Department of Political Science, University of São Paulo (USP). I hold a Ph.D. in Political Science from the Federal University of Minas Gerais (UFMG), and was a Visiting Graduate Student at the University of California - San Diego (2021-2022). I also got my Master's Degree in Political Science from UFMG, and my bachelor's degree in International Relations from the Pontifical Catholic University of Minas Gerais (PUC-Minas). I am currently affiliated to the International Relations Research Center (NUPRI-USP) and the International institutions, Foreign Policy and Political Regime Research Network (RIPPERP-UFMG). 
+I am an Assistant Professor of Methods in the Department of International Relations at the Rio de Janeiro State University (*Universidade do Estado do Rio de Janeiro, UERJ*). Previously, I was a postdoc at the University of São Paulo (USP). I earned my PhD (2022) and my Master's (2018) in Political Science from the Federal University of Minas Gerais (UFMG), with a research stay at the University of California - San Diego (2021-2022).
 
-Since 2022, I am part of the organizing team of the [Graduate Students in International Security, Etc. Workshop](https://wp.nyu.edu/gsise/) (GSISE).  
+My research focuses on international security governance in Latin America. I also conduct research on foreign policy evaluation, as well as Global IR. My work has been published in Latin American Politics and Society, Global Studies Quarterly, Bulletin of Latin American Research, the Oxford Research Encyclopedia of International Studies, Revista Brasileira de Política Internacional, Contexto Internacional, and Brazilian Political Science Review.
 
-My research focuses on international security governance in Latin America. I also conduct a secondary agenda on the role of the Latin American IR scholarship amidst Global IR debates. My work has been published in Latin American Politics and Society, Global Studies Quarterly, the Oxford Research Encyclopedia of International Studies, Revista Brasileira de Política Internacional, Contexto Internacional, and Brazilian Political Science Review.
+I have research experience on the following topics: Methods; International Security; Foreign Policy; Latin America; and Global IR.
 
-I have research experience on the following topics: International Security; Foreign Policy; Defense Policy; Latin America; and Global IR.
+I am currently affiliated to the International Relations Research Center (NUPRI-USP) and the International institutions, Foreign Policy and Political Regime Research Network (RIPPERP-UFMG). 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
